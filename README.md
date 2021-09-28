@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @christopheradamschwartz
 - 👀 I’m interested in mountainbiking.
 - 🌱 I’m currently learning GIT and AWS.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ADO and GIT.
 - 📫 How to reach me schwartz.christopher@yahoo.com
 
 <!---
